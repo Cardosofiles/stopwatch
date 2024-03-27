@@ -11,7 +11,7 @@ Um cronômetro simples desenvolvido com HTML, CSS e JavaScript. Este projeto per
 -Como Usar
 -Clone este repositório em sua máquina local usando o seguinte comando:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Cardosofiles/stopwatch.git
 
 Abra o arquivo index.html em seu navegador da web.
 Use os botões fornecidos para controlar o cronômetro de acordo com sua necessidade.
